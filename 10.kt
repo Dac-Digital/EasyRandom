@@ -1,0 +1,18 @@
+User2{
+email='eOMtThyhVNLWUZNRcBaQKxI',
+firstName='yedUsFwdkelQbxeTeQOvaScfqIOOmaa',
+lastName='JxkyvRnL',
+books=[Book{
+ title='RYtGKbgicZaHCBRQDSx',
+ author='VLhpfQGTMDYpsBZxvfBoeygjb',
+  isbn='UMaAIKKIkknjWEXJUfPxxQHeWKEJ'},
+  ...
+ ],
+someMap={
+ -5237980416576129062=Book{
+         title='RYtGKbgicZaHCBRQDSx',
+         author='VLhpfQGTMDYpsBZxvfBoeygjb',
+          isbn='UMaAIKKIkknjWEXJUfPxxQHeWKEJ'},
+  ...
+  }
+}
